@@ -25,7 +25,7 @@
         <h1 style="color:MediumSeaGreen;font-family:verdana;style=font-size:260%">Location</h1>
            <p style="font-family:Times New Roman;font-size:160%;color:black;">3457 Bethel Drive, West Lafayette, IN 47906<br><a href="google.com/maps/place/3457+Bethel+Dr,+West+Lafayette,+IN+47906/@40.4664679,-86.9571413,17z/data=!3m1!4b1!4m6!3m5!1s0x8812fcf0de103645:0xc46be2631bd42b3e!8m2!3d40.4664679!4d-86.9545664!16s%2Fg%2F11c4cfh7dp?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D" target="_blank"><u><font-family:Courier">Click Here for Diretions</font></u></a>
         <h1 style="color:MediumSeaGreen;font-family:verdana;style=font-size:260%">Contact Me</h1>
-        <a href="mailto:okeefel@purdue.edu">Click Here to Email Me</a>
+        <a href="mailto:okeefel@purdue.edu">Click Here to Email Me</a><br>
   </body>
   <footer>
     <pstyle="font-family:Times New Roman;font-size:160%;color:black;">Page by: Lindsey O'Keefe<br>Date last modified: <span id="last-modified-date"></p>
