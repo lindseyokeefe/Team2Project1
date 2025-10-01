@@ -11,14 +11,14 @@
         <li><p style="font-family:Times New Roman;font-size:160%;color:black;">Corporate & Professional</p></li>
         <li><p style="font-family:Times New Roman;font-size:160%;color:black;">Community & Festivals</p></li>
         <li><p style="font-family:Times New Roman;font-size:160%;color:black;">Family & Social Gatherings</p></li>
-      </ul></p>
+      </ul>
       <h1 style="color:MediumSeaGreen;font-family:verdana;style=font-size:260%">How We Cater Your Event:</h1>
       <p style="font-family:Times New Roman;font-size:160%;color:black;"><ol>
-        <li>Contact us for a consultation.</li>
-        <li>Customize your order from our menu options.</li>
-        <li>We prepare everything fresh on the day of your event.</li>
-        <li>Our team delivers and sets up <b><font color="tomato">on site.</font></b></li>
-      </ol></p>
+        <li><p style="font-family:Times New Roman;font-size:160%;color:black;">Contact us for a consultation.</p></li>
+        <li><p style="font-family:Times New Roman;font-size:160%;color:black;">Customize your order from our menu options.</p></li>
+        <li><p style="font-family:Times New Roman;font-size:160%;color:black;">We prepare everything fresh on the day of your event.</p></li>
+        <li><p style="font-family:Times New Roman;font-size:160%;color:black;">Our team delivers and sets up <b><font color="tomato">on site.</font></b></p></li>
+      </ol>
       <h1 style="color:MediumSeaGreen;font-family:verdana;style=font-size:260%">Brief History</h1>
       <p style="font-family:Times New Roman;font-size:160%;color:black;"><b><font color="tomato">Roberto Castillo</font></b>, our founder and CEO, moved to the Greater Lafayette area about 25 years ago to be closer to family. One of Roberto's passions is cooking big meals and sharing his Mexican culture through food with family and friends. While living in Lafayette, Roberto noticed a need for good authentic Mexican cuisine. Inspired to bring his passion to the community, he created <b><font color="tomato">Fiesta Empire.</font></b>
         <h1 style="color:MediumSeaGreen;font-family:verdana;style=font-size:260%">Location</h1>
