@@ -3,7 +3,7 @@
     <body style="background-color:LightGray;">
       <h1 style="color:MediumSeaGreen;font-family:verdana;style=font-size:260%"><u>About Fiesta Empire</u></h1>
       <p style="font-family:Times New Roman;font-size:160%;color:black;"><b><font color="tomato">Fiesta Empire</font></b> is a Mexican catering company that serves authentic, creative, and fresh cuisine for <i>all kinds of events.</i> Our founder, <b><font color="tomato">Robero Castillo</font></b>, is committed to providing guests with reliable service and a satisfying experience. Our goal is simple, to make every event easier and more enjoyable with food that's delicious and convenient.</p>
-      <img scr="Mexican Catering.jpg">
+      <img src="Mexican Catering.jpg">
       <h1 style="color:MediumSeaGreen;font-family:verdana;style=font-size:260%">Types of Events We Cater:</h1>
       <p style="font-family:Times New Roman;font-size:160%;color:black;"><ul>
         <li>Weddings & Celebration</li>
