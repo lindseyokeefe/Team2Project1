@@ -30,3 +30,6 @@
   <p>Page made by Lindsey O'Keefe</p>
   <p>Date modified by: <span id="datemodified"></span></p>
   </footer>
+  <script>
+    document.getElementById('datemodified').textContent = new Date().toISOString().split('T')[0];
+  </script>
