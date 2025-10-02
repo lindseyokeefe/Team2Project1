@@ -24,6 +24,8 @@
         <h2 style="color:MediumSeaGreen;font-family:verdana;style=font-size:160%">Location</h2>
            <p style="font-family:Times New Roman;font-size:100%;color:black;">3457 Bethel Drive, West Lafayette, IN 47906</p>
             <a href="https://www.google.com/maps/place/3457+Bethel+Dr,+West+Lafayette,+IN+47906/@40.4664679,-86.9571413,17z/data=!3m1!4b1!4m6!3m5!1s0x8812fcf0de103645:0xc46be2631bd42b3e!8m2!3d40.4664679!4d-86.954[...]" target="_blank">Click Here for Directions</a>
+      <h2 style="color:MediumSeaGreen;font-family:verdana;style=font-size:160%">Job Application</h2>
+          <a href="https://github.com/lindseyokeefe/Team2Project1/raw/main/Downloads/Employment-Job-Application.pdf" download>Click Here to Download Application</a>
         <h2 style="color:MediumSeaGreen;font-family:verdana;style=font-size:260%">Contact Me</h2>
         <a href="mailto:okeefel@purdue.edu">Click Here to Email Me</a>
   <hr>
