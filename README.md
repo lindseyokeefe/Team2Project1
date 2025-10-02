@@ -29,8 +29,4 @@
   <br><footer>
   <p>Page made by Lindsey O'Keefe</p>
   <p>Date modified by: <span id="datemodified"></span></p>
-    <script>
-  // This automatically fills in today's date in the format YYYY-MM-DD
-  document.getElementById('datemodified').textContent = new Date().toISOString().split('T')[0];
-</script>
   </footer>
