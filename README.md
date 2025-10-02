@@ -27,7 +27,8 @@
         <h1 style="color:MediumSeaGreen;font-family:verdana;style=font-size:260%">Contact Me</h1>
         <a href="mailto:okeefel@purdue.edu">Click Here to Email Me</a>
   </body>
-  <footer>
-    <p style="font-family:Times New Roman;font-size:160%;color:black;">Page by: Lindsey O'Keefe<br>Date last modified: <span id="last-modified-date"></p>
+  <footer style="text-align:center; padding: 1em 0; background:#f3f3f3;">
+  <p>Page made by Lindsey O'Keefe</p>
+  <p>Date modified by: <span id="datemodified"></span></p>
   </footer>
 </html>
